@@ -5,6 +5,8 @@ Open source reference code for "Streamline Selenium Testing" presented at Dreamf
 
 * [Presentation with complete speaker notes](https://docs.google.com/a/nimbleuser.com/presentation/d/1j-F-ulZzU_0d8pLoCPN54GPfhuaAh1bNfTOA34XsOro/edit)
 
+For more about Enterprise Development on Force.com, visit [DreamOps.org](http://dreamops.org).
+
 ## Setup using Eclipse
 
 * Use Eclipse Kepler, or another version with Maven support 
