@@ -2,30 +2,23 @@ selenium-page-flows
 ===================
 
 Open source reference code for "Streamline Selenium Testing" presented at Dreamforce 2013.
-Presentation with complete speaker notes: https://docs.google.com/a/nimbleuser.com/presentation/d/1j-F-ulZzU_0d8pLoCPN54GPfhuaAh1bNfTOA34XsOro/edit
+
+* [Presentation with complete speaker notes](https://docs.google.com/a/nimbleuser.com/presentation/d/1j-F-ulZzU_0d8pLoCPN54GPfhuaAh1bNfTOA34XsOro/edit)
 
 ## Setup using Eclipse
 
-Use Eclipse Kepler, or another version with Maven support 
-
-Checkout the repository to your Eclipse workspace
-
-Import the folder as a Maven project
-
-Use JUnit to run LoginTest and/or AccountTest
+* Use Eclipse Kepler, or another version with Maven support 
+* Checkout the repository to your Eclipse workspace
+* Import the folder as a Maven project
+* Use JUnit to run LoginTest and/or AccountTest
 
 ## Setup using Maven 
 
-Install Apache Maven 
+* Install Apache Maven 
+* Checkout the repository
+* From the repository folder, run `> mvn test`
 
-Checkout the repository
-
-From the repository folder run 
-
-> mvn test
-
-
-## License
+#License
 
 Copyright (c) 2013, NimbleUser
 All rights reserved.
